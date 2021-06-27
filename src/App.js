@@ -1,4 +1,5 @@
 import React from 'react'
+import { Products } from './Components' 
 // import everything here
 
 const App = () => {
@@ -6,7 +7,7 @@ const App = () => {
     <div>
       
       <h1>Buy something!</h1>
-      
+      <Products />
       
     </div>
   )
