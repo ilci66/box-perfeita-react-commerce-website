@@ -5,10 +5,7 @@ import { Products } from './Components'
 const App = () => {
   return (
     <div>
-      
-      <h1>Buy something!</h1>
       <Products />
-      
     </div>
   )
 }
